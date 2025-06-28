@@ -1,4 +1,4 @@
-# colab-learning
+# Nvidia ile Yapay Zekâya Giriş
 🚀 Nvidia ile Yapay Zekâya Giriş başlıklı Üretken Akademi ’nin 3 ay süren online staj modülünü başarıyla tamamladım!
  Bu süreçte proje geliştirme süreçleri, zaman yönetimi ve  yapay zekâ temelleri konularında değerli deneyimler kazandım.
 📄 Program sonunda sertifika almaya hak kazandım.
